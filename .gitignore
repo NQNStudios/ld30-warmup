@@ -1,0 +1,9 @@
+# don't track timelapse-generated files
+
+timelapse/*.jpg
+timelapse/files.txt
+timelapse/screenlapse.avi
+
+# don't add generated binaries
+
+bin/
